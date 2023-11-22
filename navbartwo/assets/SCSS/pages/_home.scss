@@ -1,0 +1,20 @@
+
+.headContent{
+    letter-spacing: 6px;
+    font-size: 1.5rem;
+}
+header{
+    .container{
+        width: 72% !important;
+    }
+}
+.home{
+    color: rgb(188, 81, 72) !important;
+}
+.minmenu{
+    transition: 1s;
+   &:hover{
+    background-color: rgb(188, 81, 72) ;
+    color: #fff;
+   }
+}

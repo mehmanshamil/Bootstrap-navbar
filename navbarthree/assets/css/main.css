@@ -1,0 +1,21 @@
+header {
+  background-color: rgb(52, 58, 64);
+}
+header .btnLog {
+  background-color: rgb(124, 189, 30);
+  padding: 10px 20px;
+  color: #fff;
+}
+header .btnLog:hover {
+  background-color: #71b117;
+}
+header .btnRgstr {
+  background: transparent;
+  padding: 10px 20px;
+  border: 1px solid rgb(124, 189, 30);
+  transition: 1s;
+  color: #fff;
+}
+header .btnRgstr:hover {
+  background-color: rgb(124, 189, 30);
+}
